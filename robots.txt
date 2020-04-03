@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://doubiuser.github.io/sitemap.xml
